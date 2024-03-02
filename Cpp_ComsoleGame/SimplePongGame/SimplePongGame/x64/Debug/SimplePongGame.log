@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\theka\source\repos\C-Cpp_Projects\SimplePongGame\SimplePongGame\main.cpp(111,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SimplePongGame.vcxproj -> C:\Users\theka\source\repos\C-Cpp_Projects\SimplePongGame\x64\Debug\SimplePongGame.exe
